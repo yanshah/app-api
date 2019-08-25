@@ -1,2 +1,2 @@
-# recipe-app-api
+# app-api
 django app api template
